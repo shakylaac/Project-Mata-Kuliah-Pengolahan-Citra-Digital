@@ -1,1 +1,1 @@
-# Mini-Project-Mata-Kuliah-Pengolahan-Citra-Digital
+# Project-Mata-Kuliah-Pengolahan-Citra-Digital
